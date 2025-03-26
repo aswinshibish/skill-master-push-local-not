@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069433089584",
+    "project_id": "origin-fda72",
+    "storage_bucket": "origin-fda72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069433089584:android:10fbca15de8b67d81cc7f5",
+        "android_client_info": {
+          "package_name": "com.example.origin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJnuHvfVFep25Wez4SYgLHlP5arCfdkDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
