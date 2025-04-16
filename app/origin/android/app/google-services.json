@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1069433089584",
-    "project_id": "origin-fda72",
-    "storage_bucket": "origin-fda72.firebasestorage.app"
+    "project_number": "418533091186",
+    "project_id": "push123-95949",
+    "storage_bucket": "push123-95949.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1069433089584:android:10fbca15de8b67d81cc7f5",
+        "mobilesdk_app_id": "1:418533091186:android:581b3f93cad65350c6dfeb",
         "android_client_info": {
           "package_name": "com.example.origin"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAJnuHvfVFep25Wez4SYgLHlP5arCfdkDc"
+          "current_key": "AIzaSyCHbXWiiELtRCJWwe45NLH-Yd5gFO2vdQM"
         }
       ],
       "services": {
